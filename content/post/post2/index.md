@@ -21,3 +21,4 @@ image:
   #alt_text: An optional description of the image for screen readers.
 ---
 ## What are Green Buildings?
+I am just testing the site. Something went wrong and my posts aren't getting updated.
