@@ -1,5 +1,5 @@
 ---
-title: "Green Buildings"
+title: "Test Post"
 subtitle: "Future of Buildings"
 summary: "Sustainable Energy"
 authors:
