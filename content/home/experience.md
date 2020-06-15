@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Bongaigaon Refinery"
   date_start = "2020-06-15"
   date_end = "2020-07-21"
-  description = """Construction aspects of Roadworks, Preparation of D.P.R and Quality Assurance."""
+  #description = """"""
 
 [[experience]]
   title = "Summer Intern"
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
       location = "Silchar"
       date_start = "2020-05-07"
       date_end = "2020-07-30"
-      description = """Advisor: Dr. A.K.Dey"""
+      description = """Geotechnical Engineering. Advisor: Dr. A.K.Dey"""
 
       [[experience]]
         title = " Started Undergraduate Studies"
