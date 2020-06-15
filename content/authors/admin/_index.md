@@ -18,7 +18,7 @@ organizations:
   url: "http://www.nits.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests? ummm I'm still exploring.
+bio: Cutting-edge research institute .
 
 interests:
 - Geotechnical Engineering
