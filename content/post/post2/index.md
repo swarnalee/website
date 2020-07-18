@@ -11,7 +11,7 @@ tags:
 data: "2020-06-12T00:00:00Z"
 lastmod: "2020-06-12T00:00:00Z"
 featured: false
-draft: false
+draft: true
 
 image:
   placement: 1

@@ -18,7 +18,7 @@ organizations:
   url: "http://www.nits.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cutting-edge research institute .
+bio: Cutting-edge research enthusiast .
 
 interests:
 - Geotechnical Engineering
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: BTech in Civil Engineering
+  - course: B.Tech in Civil Engineering
     institution: National Institute of Technology Silchar
     year: 2021
   #- #course: MEng in Artificial Intelligence

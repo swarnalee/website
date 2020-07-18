@@ -51,7 +51,7 @@ date_format = "Jan 2006"
       location = "Silchar"
       date_start = "2020-05-07"
       date_end = "2020-07-30"
-      description = """Geotechnical Engineering. Advisor: Dr. A.K.Dey"""
+      description = """Geotechnical Engineering. Advisor: Prof. A.K.Dey"""
 
       [[experience]]
         title = " Started Undergraduate Studies"
