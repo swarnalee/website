@@ -81,6 +81,8 @@ In the past, I've worked closely with [Prof. Ashim Kanti Dey](http://www.nits.ac
 
 Apart from academics I dabble often on *human psychology* and *space sciences*. I enjoy reading (and sometimes writing) blogs, making cool Spotify playlists :) and playing Ukulele. Also, these days I am teaching myself to code.
 
+Will be more than happy to connect <a href="https://twitter.com/rawslayn?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rawslayn</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ---
 Links to some nice Spotify playlists:
 [study session](https://open.spotify.com/playlist/6rJem2tnmvaqlN02pYIYLq?si=wgTqQIX4TeevVXWj4LZctA), [aes20s](https://open.spotify.com/playlist/5k1EnDU3hQqh5NKrqtbOGu?si=DyGkQ0FnR-SAawel7t6s6Q), [feelit](https://open.spotify.com/playlist/22qdrLyXHUFxPUCYN1o1SS?si=lTptfACsQR6WS65XPfB2Pw), [lofimusic](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=daXekwyUSkiDe45OneNGgQ)
