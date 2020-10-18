@@ -12,5 +12,3 @@ title = "Hi! I am Swarnalee :smile: "
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
-
-My life is currently under construction (isn't it always though?)
