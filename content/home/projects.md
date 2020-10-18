@@ -27,8 +27,8 @@ subtitle = "A collection of some of my cool projects!"
     tag = "*"
 
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Geotechnical"
+    tag = "Geotechnical"
 
   [[content.filter_button]]
     name = "Other"

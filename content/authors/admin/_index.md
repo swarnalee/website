@@ -18,13 +18,14 @@ organizations:
   url: "http://www.nits.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cutting-edge research enthusiast .
+bio: Research enthusiast.
 
 interests:
+- Transport Systems and Networks
 - Geotechnical Engineering
-- Geomatics Engineering
-- ML in Construction Industry
-- Artificial Neural Networks
+- Geosciences
+- Data Analysis
+
 
 education:
   courses:
@@ -69,7 +70,19 @@ email: "swarnaleem@gmail.com"
 user_groups:
 - Researchers
 - Visitors
-image: "static/img/about.png"
+image:
 ---
+My life is currently under construction (isn't it always though?).
+I am a Civil Engineering undergraduate student at NIT Silchar. It was during my junior year when I realised that I truly enjoy research work. I am fascinated by the amazing new advancements taking place in the various fields of Civil Engineering spanning from transport & network systems, geosciences to geotechnical engineering, uses of AI/ML for understanding problems better and solving them.
 
-Hi! I'm Swarnalee a civil engineering undergraduate. This page is still under construction. Please comeback later. :D
+Currently, I am working on  _**Travel Behaviour in the Digitalisation Era: The Context of India**_ with [Dr. Suprava Jena](http://www.nits.ac.in/departments/civil/civil.php) and _**Smart Early Detection of Landslides based on IoT**_ with [Dr. Amit Kumar Das](http://www.nits.ac.in/departments/civil/civil.php) and [Dr. Prasanta Roy](http://www.nits.ac.in/departments/electrical/electrical.php).
+In the past, I've worked closely with [Prof. Ashim Kanti Dey](http://www.nits.ac.in/departments/civil/civil.php).
+
+
+Apart from academics I dabble often on *human psychology* and *space sciences*. I enjoy reading (and sometimes writing) blogs, making cool Spotify playlists :) and playing Ukulele. Also, these days I am teaching myself to code.
+
+---
+Links to some nice Spotify playlists:
+[study session](https://open.spotify.com/playlist/6rJem2tnmvaqlN02pYIYLq?si=wgTqQIX4TeevVXWj4LZctA), [aes20s](https://open.spotify.com/playlist/5k1EnDU3hQqh5NKrqtbOGu?si=DyGkQ0FnR-SAawel7t6s6Q), [feelit](https://open.spotify.com/playlist/22qdrLyXHUFxPUCYN1o1SS?si=lTptfACsQR6WS65XPfB2Pw), [lofimusic](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=daXekwyUSkiDe45OneNGgQ)
+
+---

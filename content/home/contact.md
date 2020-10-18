@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Contact"
-subtitle = ""
+title = "Keep in touch"
+subtitle = "Email is the best way to reach me :)"
 
 # Automatically link email and phone?
 autolink = true
@@ -17,4 +17,3 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 +++
-
