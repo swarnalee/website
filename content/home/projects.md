@@ -25,13 +25,17 @@ subtitle = ""
   #   name = "All"
   #   tag = "*"
 
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
 
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning"
+
+  [[content.filter_button]]
+    name = "Other"
+    tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -73,5 +77,5 @@ subtitle = ""
 
  # CSS class.
  css_class = ""
+
 +++
-Coming Soon.
