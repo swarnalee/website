@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Keep in touch"
-subtitle = "Email is the best way to reach me :)"
+subtitle = "I'm best reached via email. I'm always open to interesting conversations and collaboration. :)"
 
 # Automatically link email and phone?
 autolink = true
