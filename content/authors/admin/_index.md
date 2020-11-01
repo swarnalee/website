@@ -69,10 +69,13 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/swarnaleemazumder/
 
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/prettyskies.life
+ #icon: instagram
+  #icon_pack: fab
+  #link: https://instagram.com/prettyskies.life
 
+- icon: goodreads
+  icon_pack: fab
+  link: https://www.goodreads.com/rawslayn
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -88,16 +91,18 @@ image:
 My life is currently under construction (isn't it always though?).
 I am a Civil Engineering undergraduate student at NIT Silchar :mortar_board:. It was during my junior year when I realised that I truly enjoy research work. I am fascinated by the amazing new advancements taking place in the various fields of Civil Engineering spanning from transport & network systems, geosciences to geotechnical engineering, uses of AI/ML for understanding problems better and solving them.
 
-Currently, I am working on  _**Travel Behaviour in the Digitalisation Era: The Context of India**_ with [Dr. Suprava Jena](http://www.nits.ac.in/departments/civil/civil.php) and _**Smart Early Detection of Landslides based on IoT**_ with [Dr. Amit Kumar Das](http://www.nits.ac.in/departments/civil/civil.php) and [Dr. Prasanta Roy](http://www.nits.ac.in/departments/electrical/electrical.php).
+Currently, I am working with [Dr. Suprava Jena](http://www.nits.ac.in/departments/civil/civil.php) and with [Dr. Amit Kumar Das](http://www.nits.ac.in/departments/civil/civil.php).
 In the past, I've worked closely with [Prof. Ashim Kanti Dey](http://www.nits.ac.in/departments/civil/civil.php).
 
 
-Apart from academics, I dabble often in *human psychology* and *space sciences*. I enjoy reading (and sometimes writing) blogs, making nice Spotify playlists :) and playing the Ukulele. Also, these days I am teaching myself to code.
+Apart from academics, I dabble often in *human psychology (behavioural!)* and *space sciences*. I enjoy reading (and sometimes writing) blogs, making nice Spotify playlists :) and playing the Ukulele. Also, these days I am teaching myself to code.
 
 Will be more than happy to connect! <a href="https://twitter.com/rawslayn?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rawslayn</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+:two_hearts: ➜ :city_sunrise: :running_woman: :swimming_woman:  :woman_student: :books: :woman_technologist: :notes: :headphones: :woman_cook: :seedling: :dancer: :mountain: :world_map: :city_sunset: (not always in that order) 
+
 Currently reading :book: [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear.
 
-<i class="fas fa-download"></i> [Download](/files/cv.pdf) my résumé.
+ <i class="fas fa-download"></i> [Download](/files/cv.pdf) my résumé.
 
 ---

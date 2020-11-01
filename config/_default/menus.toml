@@ -45,15 +45,15 @@
   weight = 80  # The position of your page in the menu.
 
 [[main]]
-  name = "Book Shelf"  # A link title for your page.
+  name = "Resources"  # A link title for your page.
   url = "funres/"  # The URL of your page.
   weight = 85  # The position of your page in the menu.
 
 
-  [[main]]
-  name = "Reading List"  # A link title for your page.
-  url = "https://www.goodreads.com/rawslayn"  # The URL of your page.
-  weight = 90  # The position of your page in the menu.
+  #[[main]]
+  #name = "Reading List"  # A link title for your page.
+  #url = "https://www.goodreads.com/rawslayn"  # The URL of your page.
+  #weight = 90  # The position of your page in the menu.
 
   [[main]]
   name = "Contact"
