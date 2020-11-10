@@ -13,12 +13,14 @@ header:
   caption: ""
   image: ""
 ---
-Resources I find useful
+Fun resources I find useful! :smile:
 ---
-
 > *Links to some interesting, fun and helpful resources (+ a few playlists :p) I find helpful* :woman_technologist:
 > * [Mix](https://mix.com/#)
 > * [deepstash](https://deepstash.com/)
+
+### Music
+
 > * [study session](https://open.spotify.com/playlist/6rJem2tnmvaqlN02pYIYLq?si=wgTqQIX4TeevVXWj4LZctA)
 > * [aes20s](https://open.spotify.com/playlist/5k1EnDU3hQqh5NKrqtbOGu?si=DyGkQ0FnR-SAawel7t6s6Q)
 > * [feelit](https://open.spotify.com/playlist/22qdrLyXHUFxPUCYN1o1SS?si=lTptfACsQR6WS65XPfB2Pw)

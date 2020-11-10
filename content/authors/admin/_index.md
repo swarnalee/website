@@ -22,8 +22,9 @@ bio: Research enthusiast.
 
 interests:
 - Transport Systems and Networks
+- Hydrological Sciences
+- Geosciences 
 - Geotechnical Engineering
-- Geosciences
 - Data Analysis
 
 
@@ -56,7 +57,7 @@ social:
 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/swarnaleem
+  link: https://twitter.com/rawslayn
 
 #- icon: google-scholar
 #  icon_pack: ai
@@ -72,10 +73,13 @@ social:
  #icon: instagram
   #icon_pack: fab
   #link: https://instagram.com/prettyskies.life
+#- #icon: strava
+  #icon_pack: fab
+  #link: https://www.strava.com/athletes/swarnalee
 
-- icon: goodreads
-  icon_pack: fab
-  link: https://www.goodreads.com/rawslayn
+#- icon: goodreads
+ # icon_pack: fab
+ # link: https://www.goodreads.com/rawslayn
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -89,13 +93,13 @@ user_groups:
 image:
 ---
 My life is currently under construction (isn't it always though?).
-I am a Civil Engineering undergraduate student at NIT Silchar :mortar_board:. It was during my junior year when I realised that I truly enjoy research work. I am fascinated by the amazing new advancements taking place in the various fields of Civil Engineering spanning from transport & network systems, geosciences to geotechnical engineering, uses of AI/ML for understanding problems better and solving them.
+I am a Civil Engineering undergraduate student at NIT Silchar :mortar_board:. I am fascinated by the amazing new advancements taking place in the various fields of Civil Engineering spanning from transport & network systems, hydrological sciences, geosciences to geotechnical engineering, uses of efficient tools for understanding problems better and solving them. 
 
 Currently, I am working with [Dr. Suprava Jena](http://www.nits.ac.in/departments/civil/civil.php) and with [Dr. Amit Kumar Das](http://www.nits.ac.in/departments/civil/civil.php).
 In the past, I've worked closely with [Prof. Ashim Kanti Dey](http://www.nits.ac.in/departments/civil/civil.php).
 
 
-Apart from academics, I dabble often in *human psychology (behavioural!)* and *space sciences*. I enjoy reading (and sometimes writing) blogs, making nice Spotify playlists :) and playing the Ukulele. Also, these days I am teaching myself to code.
+Apart from academics, I dabble often in pretty much everything but *human psychology (behavioural!)* and *science & tech* happen to have the largest shares. These days I am exploring *ICT effects on Transportation Systems* and also teaching myself to *code*.
 
 Will be more than happy to connect! <a href="https://twitter.com/rawslayn?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rawslayn</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
