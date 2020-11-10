@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "A collection of some of my cool projects!"
+subtitle = "Collection of my projects"
 
 
 [content]

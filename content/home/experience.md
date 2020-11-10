@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Silchar"
   date_start = "2019-05-15"
   date_end = "2019-07-15"
-  description = """Construction aspects of Roadworks, Preparation of D.P.R and Quality Assurance."""
+  #description = """Construction aspects of Roadworks, Preparation of D.P.R and Quality Assurance."""
 
   [[experience]]
     title = "Engineering Design Intern"
@@ -42,24 +42,24 @@ date_format = "Jan 2006"
     #location = "Silchar"
     date_start = "2020-05-01"
     date_end = "2020-06-30"
-    description = """Green Buildings - Calculations and Ratings"""
+    #description = """Green Buildings - Calculations and Ratings"""
 
-    [[experience]]
-      title = "Summer Research Intern"
-      company = "NIT Silchar"
-      company_url = "http://www.nits.ac.in/"
-      location = "Silchar"
-      date_start = "2020-05-07"
-      date_end = "2020-07-30"
-      description = """Geotechnical Engineering. Advisor: Prof. A.K.Dey"""
+    # [[experience]]
+      # title = "Summer Research Intern"
+      # company = "NIT Silchar"
+      # company_url = "http://www.nits.ac.in/"
+      # location = "Silchar"
+      # date_start = "2020-05-07"
+      # date_end = "2020-07-30"
+      # description = """Geotechnical Engineering. Advisor: Prof. A.K.Dey"""
 
       [[experience]]
-        title = " Started Undergraduate Studies"
+        title = "BTech Civil Engineering"
         company = "National Institute of Technology Silchar"
         company_url = "http://www.nits.ac.in/"
         location = "Silchar"
         date_start = "2017-07-25"
         date_end = "2021-05-31"
-        description = """BTech Civil Engineering"""
+        #description = """"""
 
 +++
