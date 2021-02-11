@@ -5,17 +5,19 @@ name = "sky"
 light = true
 
 # Primary
-primary = "#FF3366"
+primary = "#1DA1F2"
 
-#FF6600
+# FF5A5F
+# 1DA1F2	
+# FF6600
 # FF6633
-
-#FF3366
+# FF3366
+# FF3366
 
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
-menu_text_active = "#FF3366"
+menu_text_active = "#1DA1F2"
 menu_title = "#2b2b2b"
 
 # Home sections

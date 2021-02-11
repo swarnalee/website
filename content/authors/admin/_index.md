@@ -18,19 +18,18 @@ organizations:
   url: "http://www.nits.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research enthusiast.
+bio: Science lover.
 
 interests:
-- Transport Systems and Networks
 - Hydrological Sciences
 - Geosciences 
-- Geotechnical Engineering
 - Data Analysis
+- Machine Learning for Earth Sciences
 
 
 education:
   courses:
-  - course: B.Tech in Civil Engineering
+  - course: BTech in Civil Engineering
     institution: National Institute of Technology Silchar
     year: 2021
   #- #course: MEng in Artificial Intelligence
@@ -57,7 +56,7 @@ social:
 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/rawslayn
+  link: https://twitter.com/swarnalee
 
 #- icon: google-scholar
 #  icon_pack: ai
@@ -73,14 +72,13 @@ social:
  #icon: instagram
   #icon_pack: fab
   #link: https://instagram.com/prettyskies.life
-#- #icon: strava
-  #icon_pack: fab
-  #link: https://www.strava.com/athletes/swarnalee
+- icon: strava
+  icon_pack: fab
+  link: https://www.strava.com/athletes/swarnalee
 
 #- icon: goodreads
  # icon_pack: fab
  # link: https://www.goodreads.com/rawslayn
-
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "swarnaleem@gmail.com"
@@ -93,20 +91,18 @@ user_groups:
 image:
 ---
 My life is currently under construction (isn't it always though?).
-I am a Civil Engineering undergraduate student at NIT Silchar :mortar_board:. I am fascinated by the amazing new advancements taking place in the various fields of Civil Engineering spanning from transport & network systems, hydrological sciences, geosciences to geotechnical engineering, uses of efficient tools for understanding problems better and solving them. 
+I am a Civil Engineering undergraduate student at NIT Silchar :mortar_board:. I am fascinated by the amazing new advancements taking place in hydrological sciences, climate science, earth systems, sustainability and use of efficient tools for understanding problems better and solving them. 
 
-Currently, I am working with [Dr. Suprava Jena](http://www.nits.ac.in/departments/civil/civil.php) and with [Dr. Amit Kumar Das](http://www.nits.ac.in/departments/civil/civil.php).
-In the past, I've worked closely with [Prof. Ashim Kanti Dey](http://www.nits.ac.in/departments/civil/civil.php).
+Currently, I am working with [Dr. Subhrajit Dutta](https://sites.google.com/view/rulab/home).
 
 
-Apart from academics, I dabble often in pretty much everything but *human psychology (behavioural!)* and *science & tech* happen to have the largest shares. These days I am exploring *ICT effects on Transportation Systems* and also teaching myself to *code*.
+Apart from academics, I enjoy reading books, running, spending time with my plants, music and reading about all the amazing science happening in various fields.
 
-Will be more than happy to connect! <a href="https://twitter.com/rawslayn?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rawslayn</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-:two_hearts: ➜ :city_sunrise: :running_woman: :swimming_woman:  :woman_student: :books: :woman_technologist: :notes: :headphones: :woman_cook: :seedling: :dancer: :mountain: :world_map: :city_sunset: (not always in that order) 
+:heart: ⇄ :city_sunrise: :running_woman: :books: :woman_technologist: [:headphones:](https://open.spotify.com/user/9t38sixnbl9chaatvb00luypo?si=7XDp661PQ6-zokVuW1bKAA) :world_map: [:city_sunset:](https://www.instagram.com/prettyskies.life/) 
 
-Currently reading :book: [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear.
+Will be more than happy to connect! <a href="https://twitter.com/swarnaleem?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @swarnaleem</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
- <i class="fas fa-download"></i> [Download](/files/cv.pdf) my résumé.
+<i class="fas fa-download"></i> [Download](/files/cv.pdf) my résumé.
 
 ---

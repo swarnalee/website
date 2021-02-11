@@ -54,7 +54,7 @@ date_format = "Jan 2006"
       # description = """Geotechnical Engineering. Advisor: Prof. A.K.Dey"""
 
       [[experience]]
-        title = "BTech Civil Engineering"
+        title = "Bachelor of Technology in Civil Engineering"
         company = "National Institute of Technology Silchar"
         company_url = "http://www.nits.ac.in/"
         location = "Silchar"
