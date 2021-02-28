@@ -21,10 +21,9 @@ organizations:
 bio: Science lover.
 
 interests:
-- Hydrological Sciences
-- Geosciences 
+- Hydrological Science
+- Climate Science
 - Data Analysis
-- Machine Learning for Earth Sciences
 
 
 education:
@@ -56,7 +55,7 @@ social:
 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/swarnalee
+  link: https://twitter.com/swarnaleem
 
 #- icon: google-scholar
 #  icon_pack: ai
@@ -72,9 +71,9 @@ social:
  #icon: instagram
   #icon_pack: fab
   #link: https://instagram.com/prettyskies.life
-- icon: strava
-  icon_pack: fab
-  link: https://www.strava.com/athletes/swarnalee
+#- icon: strava
+ # icon_pack: fab
+ # link: https://www.strava.com/athletes/swarnalee
 
 #- icon: goodreads
  # icon_pack: fab
@@ -91,17 +90,12 @@ user_groups:
 image:
 ---
 My life is currently under construction (isn't it always though?).
-I am a Civil Engineering undergraduate student at NIT Silchar :mortar_board:. I am fascinated by the amazing new advancements taking place in hydrological sciences, climate science, earth systems, sustainability and use of efficient tools for understanding problems better and solving them. 
 
-Currently, I am working with [Dr. Subhrajit Dutta](https://sites.google.com/view/rulab/home).
+I am a final year Civil Engineering undergraduate student at NIT Silchar. I am fascinated by the recent advancements taking place at the intersection of natural sciences and technology. I am interested in learning and understanding more about the various earth processes including but not limited to hydrological sciences, climate science. I am more about STEAMED HAMS ([for more context](https://twitter.com/npseaver/status/1365462310463102983?s=20)) than just STEM. 
 
+These days I am exploring Earth Sciences and the various computational tools that are used in the field, learning German and also trying to read more books!
 
-Apart from academics, I enjoy reading books, running, spending time with my plants, music and reading about all the amazing science happening in various fields.
-
-
-:heart: ⇄ :city_sunrise: :running_woman: :books: :woman_technologist: [:headphones:](https://open.spotify.com/user/9t38sixnbl9chaatvb00luypo?si=7XDp661PQ6-zokVuW1bKAA) :world_map: [:city_sunset:](https://www.instagram.com/prettyskies.life/) 
-
-Will be more than happy to connect! <a href="https://twitter.com/swarnaleem?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @swarnaleem</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+:heart: ⇄ :city_sunrise: :running_woman: :books: :woman_technologist: [:headphones:](https://open.spotify.com/user/9t38sixnbl9chaatvb00luypo?si=7XDp661PQ6-zokVuW1bKAA) :world_map: [:city_sunset:](https://www.instagram.com/prettyskies.life/)  
 
 <i class="fas fa-download"></i> [Download](/files/cv.pdf) my résumé.
 
